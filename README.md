@@ -1,4 +1,4 @@
-# EvilDuck V2
+# EvilWhale
 
 A custom RP2040-based USB HID research board developed as part of a thesis on **BadUSB / HID injection detection and protection**.
 
@@ -8,7 +8,7 @@ The project is intended for controlled laboratory research, defensive security t
 
 ## 1. Project Overview
 
-EvilDuck V2 is a compact custom USB development board designed around the **Raspberry Pi RP2040**.
+EvilWhale is a compact custom USB development board designed around the **Raspberry Pi RP2040**.
 
 The PCB is intended to provide a small, self-contained platform for:
 
@@ -282,7 +282,7 @@ This repository should eventually contain enough information to reproduce the re
 
 ## 12. Project Information
 
-**Project:** EvilDuck V2  
+**Project:** EvilWhale  
 **Type:** Custom USB HID research hardware  
 **Purpose:** Thesis research on BadUSB / HID injection detection and protection  
 **PCB:** 80 mm x 20 mm  
